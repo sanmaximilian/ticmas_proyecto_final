@@ -53,3 +53,13 @@ li {text-decoration: none;}
     border-radius: 80px;
     box-shadow: 2px 2px;
 }
+
+
+
+footer{
+    background-color: darkgoldenrod;
+    font-size: 1.8rem;
+    color:white;
+    padding: 8px;
+    text-align: center;
+}
