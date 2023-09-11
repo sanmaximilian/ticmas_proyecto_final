@@ -32,3 +32,24 @@ li {text-decoration: none;}
     margin-left: auto;
     margin-right: auto;
 }
+
+.cvhead{
+    display: inline-block;
+    width: 40%;
+}
+.cvhead p{
+    color: goldenrod;
+    font-size: 2.1rem;
+    font-weight: 500;
+}
+
+.cvhead p span{
+    color: black;
+
+}
+
+.foto_perfil{
+    border: 4px solid ghostwhite;
+    border-radius: 80px;
+    box-shadow: 2px 2px;
+}
