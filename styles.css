@@ -101,3 +101,9 @@ font-weight: 300;
 background-color: lightgoldenrodyellow;
     
 }
+
+form input {
+border-radius: 32px;
+padding: 14px;
+border: none;
+}
