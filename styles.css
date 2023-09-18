@@ -63,3 +63,41 @@ footer{
     padding: 8px;
     text-align: center;
 }
+
+.contacto {
+    display: block;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.contactTitle {
+    font-size: 1,9rem;
+    font-weight: 600;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-right: 0;
+}
+
+.contactBTN{
+    border-radius: 50px;
+    border-style: none;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gold;
+    padding: 20px;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.contactBTN :hover{
+font-weight: 300;
+background-color: lightgoldenrodyellow;
+    
+}
