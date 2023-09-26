@@ -114,7 +114,13 @@ border: none;
     margin-right: auto;
     /* comentario */
 }
+.expe{
+    padding: 20px;
+}
 
+footer p {
+    cursor: pointer; /* Solo para simular que son enlaces */
+}
 /*
 @media only screen and (max-width: 576px) {
  body{
