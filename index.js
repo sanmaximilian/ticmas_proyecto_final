@@ -21,8 +21,10 @@ function ocultaForm(){
     newDiv.appendChild(newContent); //añade texto al div creado.
   
     // añade el elemento creado y su contenido al DOM
-    var currentDiv = document.getElementById("contacT");
-    document.body.insertBefore(newDiv, currentDiv);
+    // var currentDiv = document.getElementById("contacT").innerHTML("Gracias");
+   document.getElementById("contacT").innerHTML="Gracias por dejar sus datos, en breve me contactare!!!";
+    // currentDiv.innerText("<h1>Gracias</h1>") Agregar para que cree un h1 con el texto de gracias por su contacto
+    // document.body.insertBefore(newDiv, currentDiv);
     
 
 
