@@ -9,7 +9,7 @@ function agregGreet(){
 }
 
 function ocultaForm(){
-    let nombre=document.getElementById('nombre').value
+    let nombre=document.getElementById('nom').value
     // console.log(nombre)
     let mensaje= `Gracias ${nombre.toUpperCase()} por enviar sus datos, en breve sera contactado`
     
