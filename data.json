@@ -1,0 +1,19 @@
+{
+    "data":{
+        "nombre":"nombre",
+        "apellido":"apellido"
+
+    },
+    "estudios":{
+        "estudio1":"estudio1",
+        "estudio2":"estudio2",
+        "estudio3":"estudio3",
+        "estudio4":"estudio4"
+    },
+    "dataContact":{
+        "linkedin":"linkedin",
+        "email":"email",
+        "github":"github"
+    }
+
+}
